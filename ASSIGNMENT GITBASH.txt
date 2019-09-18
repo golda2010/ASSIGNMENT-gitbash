@@ -1,2 +1,3 @@
 difference btwn gitbash an github
 adding collaborators
+this makes life easy for us
